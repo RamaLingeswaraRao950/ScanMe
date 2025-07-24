@@ -1,6 +1,6 @@
 # 📱 ScanMe 🔲
 
-Welcome to the **ScanMe** built with Python!  
+Welcome to the **ScanMe** project built with Python!  
 This handy app allows you to generate QR codes for **links** 🌐 and **personal bio-data** 🧑‍💼 with just a few lines of input.
 
 ## 🚀 Features 
@@ -24,10 +24,10 @@ This handy app allows you to generate QR codes for **links** 🌐 and **personal
 
 ## 💡 How It Works
 
-1. 🔗 For Links : 
+1. 🔗 For Links :-- 
 The code generates a QR for your portfolio or any URL
 
-2. 🧾 For Bio-Data :
+2. 🧾 For Bio-Data :--
 You'll be prompted to enter :
 
 - Name 🧑
@@ -36,17 +36,18 @@ You'll be prompted to enter :
 - Mobile Number 📱
 - This data is encoded into a QR and saved as file-name.png.
 
-## 🔲 Scan. Share. Simplify.
+## 🔲 Scan.. Share.. Simplify..!
 Create your digital footprint, one QR at a time! 🚀
 
-🌟 Support 
+🌟 Support :--
 If you found this useful :
 
 - ⭐ Star the repository
 - 🛠️ Fork to add more features
 - 📨 Share with your friends
 
-👨‍💻 Author
+👨‍💻 Author :--
+
 Hi, I’m Ram.
 A passionate Full-Stack Developer who enjoys building smart utilities with Python.
 This project brings digital identity sharing to your fingertips — literally! 🙌
