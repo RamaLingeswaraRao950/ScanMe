@@ -40,6 +40,7 @@ You'll be prompted to enter :
 Create your digital footprint, one QR at a time! 🚀
 
 🌟 Support :--
+
 If you found this useful :
 
 - ⭐ Star the repository
@@ -49,5 +50,6 @@ If you found this useful :
 👨‍💻 Author :--
 
 Hi, I’m Ram.
+
 A passionate Full-Stack Developer who enjoys building smart utilities with Python.
 This project brings digital identity sharing to your fingertips — literally! 🙌
